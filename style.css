@@ -2,7 +2,6 @@
 
 #font{
     font-family: "Knockout-HTF54-Sumo";
-    margin-bottom:0;
  
 }
 .d-block{
@@ -35,16 +34,16 @@
     background-image: url("08898403-47b1-44df-aa1b-f94fcf239dc0.jpg");
     background-repeat: no-repeat;
     background-position: top;
-     margin-top: -3rem;
+    margin-top: -3rem;
    
 
 }
 
 .col-lg-6 p {
     font-size: 0.9rem;
+    
 }
 
 .col-lg-6 img {
     margin-top:8rem ;
 }
-
